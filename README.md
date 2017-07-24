@@ -1,4 +1,4 @@
-# onething
+# OneThing
 how to achieve my goal
 [the OneThing book club]
 notes I make as I read thru the content 
@@ -6,8 +6,8 @@ notes I make as I read thru the content
 
 
 
-# Sunday Made me refocus (7/23
-- post my One Thing where very visible to remind me of what my ONE thing is for this month
+# Sunday what made me refocus (7/23
+- posting my One Thing where very visible to remind me of what my ONE thing is for this month.  this stop me from getting distracted to do side things with small side effects
 - What I learned OneThing Podcast:
   - 28% of the day multitasking wasted [According to the British Journal of Health Psychology].  There are distractions everywhere!
   - 225 daily minutes (16% of day) Heavy Phone users use their phone
